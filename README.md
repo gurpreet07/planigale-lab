@@ -2,7 +2,7 @@
 
 Hi! In this repo is a slightly insecure IIS web.config file, and an automated CICD Workflow configured to:
 * Check for insecure options
-* Validate them against the SafeStack platform
+* Validate them against the SafeStack platform 
 
 To get started, you have to perform the following:
 1. Fork this repo
